@@ -98,43 +98,43 @@
    - [Comparative Analysis of Political Institutions](#)
 
 ### 11. **Political Sociology**
-   - Relationship Between Society and Politics
-   - Political Culture and Socialization
-   - Political Participation and Representation
-   - Social Movements and Political Change
-   - Identity Politics: Ethnicity, Gender, and Class
+   - [Relationship Between Society and Politics](#)
+   - [Political Culture and Socialization](#)
+   - [Political Participation and Representation](#)
+   - [Social Movements and Political Change](#)
+   - [Identity Politics: Ethnicity, Gender, and Class](#)
 
 ### 12. **Governance and Public Policy**
-   - Theories and Concepts of Governance
-   - Good Governance and Accountability
-   - Public Policy Analysis
-   - Policy Challenges in Developing Countries
-   - Governance and Technology
+   - [Theories and Concepts of Governance](#)
+   - [Good Governance and Accountability](#)
+   - [Public Policy Analysis](#)
+   - [Policy Challenges in Developing Countries](#)
+   - [Governance and Technology](#)
 
 ### 13. **Political Research Methods**
-   - Quantitative and Qualitative Research Methods
-   - Case Study Methodology
-   - Surveys, Polls, and Public Opinion Research
-   - Comparative Method
-   - Data Analysis in Political Science
+   - [Quantitative and Qualitative Research Methods](#)
+   - [Case Study Methodology](#)
+   - [Surveys, Polls, and Public Opinion Research](#)
+   - [Comparative Method](#)
+   - [Data Analysis in Political Science](#)
 
 ### 14. **Environmental Politics**
-   - Political Dimensions of Environmental Issues
-   - Global Environmental Governance
-   - Climate Change Policies
-   - Environmental Justice
-   - Sustainable Development Goals (SDGs)
+   - [Political Dimensions of Environmental Issues](#)
+   - [Global Environmental Governance](#)
+   - [Climate Change Policies](#)
+   - [Environmental Justice](#)
+   - [Sustainable Development Goals (SDGs)](#)
 
 ### 15. **Contemporary Issues in Political Science**
-   - Populism and Its Global Impact
-   - Nationalism vs. Globalism
-   - Terrorism and Counterterrorism Policies
-   - Migration and Refugee Politics
-   - Cyber Politics and Security
+   - [Populism and Its Global Impact](#)
+   - [Nationalism vs. Globalism](#)
+   - [Terrorism and Counterterrorism Policies](#)
+   - [Migration and Refugee Politics](#)
+   - [Cyber Politics and Security](#)
 
 ### 16. **Ethics in Politics**
-   - Political Corruption and Transparency
-   - Ethics of War and Peace
-   - Political Leadership and Responsibility
-   - Moral Philosophy in Politics
-   - Ethical Dilemmas in Policy-Making
+   - [Political Corruption and Transparency](#)
+   - [Ethics of War and Peace](#)
+   - [Political Leadership and Responsibility](#)
+   - [Moral Philosophy in Politics](#)
+   - [Ethical Dilemmas in Policy-Making](#)
