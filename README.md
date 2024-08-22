@@ -38,64 +38,64 @@
      - [Judiciary](#)
 
 ### 4. **Constitutional Studies**
-   - Concept of Constitution
-   - Types of Constitutions
-   - Constitutionalism and Rule of Law
-   - Comparative Constitutional Systems
-   - Judicial Review and Constitutional Interpretation
+   - [Concept of Constitution](#)
+   - [Types of Constitutions](#)
+   - [Constitutionalism and Rule of Law](#)
+   - [Comparative Constitutional Systems](#)
+   - [Judicial Review and Constitutional Interpretation](#)
 
 ### 5. **Public Administration and Policy**
-   - Theories of Public Administration
-   - Bureaucracy and Its Role
-   - Public Policy Formulation
-   - Policy Implementation and Evaluation
-   - Role of Civil Services
+   - [Theories of Public Administration](#)
+   - [Bureaucracy and Its Role](#)
+   - [Public Policy Formulation](#)
+   - [Policy Implementation and Evaluation](#)
+   - [Role of Civil Services](#)
 
 ### 6. **Political Parties and Electoral Systems**
-   - Formation and Types of Political Parties
-   - Party Systems
-   - Electoral Systems and Voting Behavior
-   - Campaigns and Electioneering
-   - Role of Media in Elections
+   - [Formation and Types of Political Parties](#)
+   - [Party Systems](#)
+   - [Electoral Systems and Voting Behavior](#)
+   - [Campaigns and Electioneering](#)
+   - [Role of Media in Elections](#)
 
 ### 7. **Political Economy**
-   - Relationship Between Politics and Economics
-   - Capitalism, Socialism, and Mixed Economies
-   - Globalization and Its Impact on National Politics
-   - Political Economy of Development
-   - Economic Policies and Governance
+   - [Relationship Between Politics and Economics](#)
+   - [Capitalism, Socialism, and Mixed Economies](#)
+   - [Globalization and Its Impact on National Politics](#)
+   - [Political Economy of Development](#)
+   - [Economic Policies and Governance](#)
 
 ### 8. **International Relations**
-   - Theories of International Relations
-     - Realism
-     - Liberalism
-     - Constructivism
-   - International Organizations
-     - United Nations
-     - World Trade Organization
-     - International Monetary Fund
-     - Non-Governmental Organizations (NGOs)
-   - Global Governance and Diplomacy
-   - International Conflicts and Resolutions
-   - Human Rights and International Law
+   - [Theories of International Relations](#)
+     - [Realism](#)
+     - [Liberalism](#)
+     - [Constructivism](#)
+   - [International Organizations](#)
+     - [United Nations](#)
+     - [World Trade Organization](#)
+     - [International Monetary Fund](#)
+     - [Non-Governmental Organizations (NGOs)](#)
+   - [Global Governance and Diplomacy](#)
+   - [International Conflicts and Resolutions](#)
+   - [Human Rights and International Law](#)
 
 ### 9. **Political Philosophy**
-   - Ancient and Medieval Political Philosophy
-   - Enlightenment Thinkers
-   - Modern Political Thought
-   - Post-Colonial and Postmodern Political Philosophy
-   - Justice, Liberty, and Equality in Political Thought
+   - [Ancient and Medieval Political Philosophy](#)
+   - [Enlightenment Thinkers](#)
+   - [Modern Political Thought](#)
+   - [Post-Colonial and Postmodern Political Philosophy](#)
+   - [Justice, Liberty, and Equality in Political Thought](#)
 
 ### 10. **Comparative Politics**
-   - Approaches to Comparative Politics
-   - Political Systems in Developed and Developing Countries
-   - Case Studies of Major Political Systems
-     - United States
-     - United Kingdom
-     - China
-     - India
-   - Democratization and Political Change
-   - Comparative Analysis of Political Institutions
+   - [Approaches to Comparative Politics](#)
+   - [Political Systems in Developed and Developing Countries](#)
+   - [Case Studies of Major Political Systems](#)
+     - [United States](#)
+     - [United Kingdom](#)
+     - [China](#)
+     - [India](#)
+   - [Democratization and Political Change](#)
+   - [Comparative Analysis of Political Institutions](#)
 
 ### 11. **Political Sociology**
    - Relationship Between Society and Politics
