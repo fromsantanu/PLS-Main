@@ -1,41 +1,41 @@
 # Study of political science
 
 ### 1. **Introduction to Political Science**
-   - Definition and Scope
-   - Importance and Relevance
-   - Relationship with Other Social Sciences
+   - [Definition and Scope](#)
+   - [Importance and Relevance](#)
+   - [Relationship with Other Social Sciences](#)
 
 ### 2. **Political Theories and Ideologies**
-   - Classical Political Theories
-     - Plato and Aristotle
-     - Machiavelli
-   - Modern Political Theories
-     - Liberalism
-     - Socialism
-     - Conservatism
-     - Fascism
-     - Anarchism
-   - Contemporary Political Ideologies
-     - Feminism
-     - Environmentalism
-     - Multiculturalism
-     - Postmodernism
+   - [Classical Political Theories](#)
+     - [Plato and Aristotle](#)
+     - [Machiavelli](#)
+   - [Modern Political Theories](#)
+     - [Liberalism](#)
+     - [Socialism](#)
+     - [Conservatism](#)
+     - [Fascism](#)
+     - [Anarchism](#)
+   - [Contemporary Political Ideologies](#)
+     - [Feminism](#)
+     - [Environmentalism](#)
+     - [Multiculturalism](#)
+     - [Postmodernism](#)
 
 ### 3. **Political Systems and Structures**
-   - Types of Political Systems
-     - Democracy
-     - Authoritarianism
-     - Totalitarianism
-     - Monarchy
-   - Forms of Government
-     - Parliamentary
-     - Presidential
-     - Semi-Presidential
-     - Federal and Unitary States
-   - Political Institutions
-     - Legislature
-     - Executive
-     - Judiciary
+   - [Types of Political Systems](#)
+     - [Democracy](#)
+     - [Authoritarianism](#)
+     - [Totalitarianism](#)
+     - [Monarchy](#)
+   - [Forms of Government](#)
+     - [Parliamentary](#)
+     - [Presidential](#)
+     - [Semi-Presidential](#)
+     - [Federal and Unitary States](#)
+   - [Political Institutions](#)
+     - [Legislature](#)
+     - [Executive](#)
+     - [Judiciary](#)
 
 ### 4. **Constitutional Studies**
    - Concept of Constitution
