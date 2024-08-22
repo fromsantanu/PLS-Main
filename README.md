@@ -1,4 +1,4 @@
-# Study of political science
+# Study of Political Science
 
 ### 1. **Introduction to Political Science**
    - [Definition and Scope](#)
