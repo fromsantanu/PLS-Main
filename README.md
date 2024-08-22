@@ -1,4 +1,4 @@
-# Study of Political Science
+# Study of Political Science ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### 1. **Introduction to Political Science**
    - [Definition and Scope](#)
