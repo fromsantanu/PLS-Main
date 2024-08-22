@@ -138,5 +138,3 @@
    - Political Leadership and Responsibility
    - Moral Philosophy in Politics
    - Ethical Dilemmas in Policy-Making
-
-This list covers a broad range of topics and subtopics that provide a comprehensive overview of the field of political science.
